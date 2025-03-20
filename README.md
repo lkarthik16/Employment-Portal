@@ -27,8 +27,8 @@ Before getting started, ensure you have Python 3.x and `pip` installed.
 
 Clone the repository to your local machine using the following command:
 
-```bash
-
 ![alt text](images/Snap1.png)
 ![alt text](images/Snap2.png)
 ![alt text](images/Snap3.png)
+
+```bash
